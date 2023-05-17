@@ -2,4 +2,4 @@
 Condivisione Lavoro Svolto
 1) Capitolo1: Introduzione Alla Robotica Mobile , problemi legati alla locomozione mediante ruote
 2) Capitolo2: Definizione del Modello Cinematico del Primo e del Secondo Ordine (estensione Dinamica) , introduzione ai controlli e messa in evidenza
-              <p align='center'>problema risolto nel capitolo successivo.<p>
+              <p margin-left='30px'>problema risolto nel capitolo successivo.<p>
