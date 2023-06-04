@@ -5,7 +5,8 @@ Condivisione Lavoro Svolto
 problema risolto nel capitolo successivo, con l'introduzione dei sistemi incerti.
 3) Capitolo3: Introduzione ai sistemi incerti, incertezza parametrica e di modello , LDI (Linear Differential Inclusion) , Binding Politopico ,
 Sistemi LPV , Controllo Gain Scheduling.
-4) Capitolo4: Introduzione al problema della stima dello stato in applicazioni reali. Stima Ricorsiva dello stato , Filtro di Bayes , Filtri Gaussiani con Rappresentazione a Momenti della Belief (Filtro di Kalman, EKF).
+4) Capitolo4: Introduzione al problema della stima dello stato in applicazioni reali. Stima Ricorsiva dello stato , Filtro di Bayes , Filtri Gaussiani con Rappresentazione a Momenti della Belief (Filtro di Kalman, EKF). Localizzazione Odometrica , Eulero in Avanti , Runge - Kutta , definizione modello predizione
+filtro Kalman, correzione alla stima passiva (dead reckoning).
 </br></br>
 
 Nella seconda cartella libri utilizzati fino a questo punto.
