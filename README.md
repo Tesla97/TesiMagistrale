@@ -7,6 +7,7 @@ problema risolto nel capitolo successivo, con l'introduzione dei sistemi incerti
 Sistemi LPV , Controllo Gain Scheduling.
 4) Capitolo4: Introduzione al problema della stima dello stato in applicazioni reali. Stima Ricorsiva dello stato , Filtro di Bayes , Filtri Gaussiani con Rappresentazione a Momenti della Belief (Filtro di Kalman, EKF). Localizzazione Odometrica , Eulero in Avanti , Runge - Kutta , definizione modello predizione
 filtro Kalman, correzione alla stima passiva (dead reckoning).
+5) Capitolo5: Risultati Sperimentali. In particolare simulazione con utilizzo di sistemi GNSS per localizzazione outdoor , simulazioni con Beacons applicazioni indoor , fingerpring etc...
 </br></br>
 
 Nella seconda cartella libri utilizzati fino a questo punto.
