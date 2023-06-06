@@ -10,5 +10,5 @@ filtro Kalman, correzione alla stima passiva (dead reckoning).
 5) Capitolo5: Risultati Sperimentali. In particolare simulazione con utilizzo di sistemi GNSS per localizzazione outdoor , simulazioni con Beacons applicazioni indoor , fingerprinting etc...
 </br></br>
 
-Nella seconda cartella libri utilizzati fino a questo punto.
+Nella seconda cartella libri utilizzati.
 
